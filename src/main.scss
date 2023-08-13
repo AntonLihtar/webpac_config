@@ -1,0 +1,17 @@
+$font-size: 1rem;
+$font-color: lch(28 99 35);
+
+html {
+  font-size: $font-size;
+  color: $font-color;
+}
+.logo-png img {
+  width: 10em;
+}
+.logo-svg img{
+  width: 10em;
+}
+
+.h1 {
+  color: red;
+}
