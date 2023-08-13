@@ -1,4 +1,7 @@
 # Сборка для вебпака 5+
+
+<img src="https://github.com/AntonLihtar/webpac_config/assets/111772207/9724e5a7-6038-42d8-a508-cf4322ea44be" alt="png">
+
 ### Сразу подключены:
 
 - dev server 
